@@ -89,3 +89,39 @@ Type annotations are passed using ::
 | read 		| parses a string to a type 								| `read "True" :: Bool`
 | minBound 	| finds lower bound of a bounded type 					| minBound :: Int 
 | maxBound 	| finds the upper bound of a bounded type 			| maxBound :: Bool
+
+--------------------------------------------------------------------------------
+
+## Patterns
+
+Haskell can perform pattern matching like Prolog or Erlang. 
+
+`(x:y:_) = [3,4,5]`
+
+gives `x = 3`, `y = 4`
+
+#### List comprehension pattern matching
+
+`[a + b | (a,b) <- [(1,2),(3,4), (5,6)]]` 
+
+gives
+
+`[3,7,11]`
+
+## As-pattern
+
+To store the name of a pattern, use the form {name}@{pattern}
+
+`pattern@(x:_) = [1,2,3,4]`
+
+gives 
+
+`pattern = [1,2,3,4]` and `x = 1`
+
+------------------------------------------------------------------------------
+
+## Misc
+
+| Function 	| Description													| Example
+|-----------|--------------------------------------------------|----------
+| error 		| throws a runtim error										| `error "This is an error"`
