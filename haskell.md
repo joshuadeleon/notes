@@ -264,14 +264,18 @@ a => defines a constraints (e.g. `Eq a => a`)
 | bracketOnError	| Cleans up on if exception is raised					|
 
 ## Command line
+
 **Library:** System.Environment
+
 | Function 			| Description													| Example
 |---					|---																|---
 | getArgs			| Gets command line arguments								| 
 | getProgName		| Gets the application name								|
 
 ## Random
-System.Random
+
+**Library:** System.Random
+
 | Function 			| Description																								| Example
 |---					|---																											|---
 | random				| takes random generator and value to create random number and new random generator	| 
