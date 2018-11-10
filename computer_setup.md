@@ -69,6 +69,11 @@ Download/install from site
 brew install scala sbt
 ```
 
+### Security
+```
+brew cask install avast-security
+```
+
 **Notes** 
 
 To use with IntelliJ, set the Scala home to:
