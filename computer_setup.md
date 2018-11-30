@@ -74,6 +74,11 @@ brew install scala sbt
 brew cask install avast-security
 ```
 
+### Chrome
+```
+brew cask install google-chrome
+```
+
 **Notes** 
 
 To use with IntelliJ, set the Scala home to:
