@@ -57,12 +57,21 @@ brew install node
 
 ### VSCode 
 Download/install from site (can try cask next time)
+(looks like)
+```
+brew cask visual-studio-code
+```
+
 - Change font size: 16
 
 Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
 ### Android Studio
 Download/install from site
+(looks like)
+```
+brew cask android-studio
+```
 
 ### Scala
 ```
