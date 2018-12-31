@@ -79,6 +79,11 @@ brew cask install avast-security
 brew cask install google-chrome
 ```
 
+### DBeaver 
+```
+brew cask install dbeaver-community
+```
+
 **Notes** 
 
 To use with IntelliJ, set the Scala home to:
