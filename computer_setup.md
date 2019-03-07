@@ -93,6 +93,24 @@ brew cask install google-chrome
 brew cask install dbeaver-community
 ```
 
+### R & RStudio
+
+#### XQuartz
+```
+brew cask install xquartz
+```
+
+#### Compile R
+```
+brew install r
+```
+
+#### RStudio
+```
+brew cask install rstudio
+```
+
+
 **Notes** 
 
 To use with IntelliJ, set the Scala home to:
