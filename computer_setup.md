@@ -110,6 +110,10 @@ brew install r
 brew cask install rstudio
 ```
 
+### XnView
+```
+brew cask install xnviewmp
+```
 
 **Notes** 
 
