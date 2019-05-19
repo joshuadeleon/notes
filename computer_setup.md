@@ -110,11 +110,6 @@ brew install r
 brew cask install rstudio
 ```
 
-### XnView
-```
-brew cask install xnviewmp
-```
-
 **Notes** 
 
 To use with IntelliJ, set the Scala home to:
