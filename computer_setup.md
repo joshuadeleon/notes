@@ -110,6 +110,12 @@ brew install r
 brew cask install rstudio
 ```
 
+#### BitWarden
+```
+brew cask install bitwarden
+brew install bitwarden-cli
+```
+
 **Notes** 
 
 To use with IntelliJ, set the Scala home to:
