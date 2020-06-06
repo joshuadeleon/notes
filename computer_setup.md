@@ -116,6 +116,28 @@ brew cask install bitwarden
 brew install bitwarden-cli
 ```
 
+#### AWS CLI
+```
+brew install awscli
+```
+
+#### Postman
+```
+brew cask install postman
+```
+
+#### SimpleNote
+```
+brew cast install simplenote
+```
+
+
+#### Draw.Io
+```
+brew cast install drawio
+```
+
+
 **Notes** 
 
 To use with IntelliJ, set the Scala home to:
