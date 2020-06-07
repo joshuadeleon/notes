@@ -128,15 +128,18 @@ brew cask install postman
 
 #### SimpleNote
 ```
-brew cast install simplenote
+brew cask install simplenote
 ```
 
 
 #### Draw.Io
 ```
-brew cast install drawio
+brew cask install drawio
 ```
 
+#### XnView MP
+```
+brew cask install xnviewmp
 
 **Notes** 
 
