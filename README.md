@@ -1,3 +1,3 @@
 # Notes
 
-This repository contains various notes and cheat sheets related to books, programming languages, and anything else I'm interested in saving.
+Repository for various notes, cheat sheets, etc. related to anything I'm interested in persisting.
