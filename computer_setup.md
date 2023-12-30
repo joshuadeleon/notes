@@ -18,7 +18,12 @@ Download from net
 ```
 then
 ```
-alias brewup='brew update && brew upgrade && brew cleanup'
+alias brewup='brew update && brew upgrade && brew cu && brew cleanup'
+```
+
+#### Install Homebrew cask update
+```
+brew tap buo/cask-upgrade
 ```
 
 ### Git
@@ -110,36 +115,47 @@ brew install r
 brew cask install rstudio
 ```
 
-#### BitWarden
+### BitWarden
 ```
 brew cask install bitwarden
 brew install bitwarden-cli
 ```
 
-#### AWS CLI
+### AWS CLI
 ```
 brew install awscli
 ```
 
-#### Postman
+### Postman
 ```
 brew cask install postman
 ```
 
-#### SimpleNote
+### SimpleNote
 ```
 brew cask install simplenote
 ```
 
 
-#### Draw.Io
+### Draw.Io
 ```
 brew cask install drawio
 ```
 
-#### XnView MP
+### Live reload
+```
+brew cask install livereload
+```
+
+### XnView MP
 ```
 brew cask install xnviewmp
+```
+
+### TLDR - for console
+```
+brew install tldr
+```
 
 **Notes** 
 

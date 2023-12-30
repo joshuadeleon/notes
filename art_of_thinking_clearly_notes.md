@@ -1,3 +1,7 @@
+# The Art of Thinking Clearly - Notes
+Author: Rolf Dobelli
+
+
 1.  **Survivorship Bias**
    - Focusing only on successes, ignoring failures.
    - Example: Judging a business strategy solely by successful companies, ignoring failed ones.
@@ -262,130 +266,130 @@
    - Overestimating our self-awareness.
    - Example: Believing we know exactly why we prefer certain things.
 
-68. **Inability to Close Doors**
+67. **Inability to Close Doors**
    - Difficulty in abandoning options.
    - Example: Keeping multiple career paths open despite lacking interest.
 
-69. **Neomania**
+68. **Neomania**
    - Preferring new things over the tried and true.
    - Example: Constantly upgrading gadgets for the latest model.
 
-70. **Sleeper Effect**
+69. **Sleeper Effect**
    - Discredited information gaining credibility over time.
    - Example: Initially dismissing a rumor, but believing it as it's repeatedly heard.
 
-71. **Alternative Blindness**
+70. **Alternative Blindness**
    - Failing to consider all alternatives when making decisions.
    - Example: Choosing between two job offers without considering a third, potentially better, option.
 
-72. **Social Comparison Bias**
+71. **Social Comparison Bias**
    - Judging ourselves based on others.
    - Example: Feeling inadequate because friends seem more successful.
 
-73. **Primacy and Recency Effects**
+72. **Primacy and Recency Effects**
    - Remembering first and last items best.
    - Example: Recalling the first and last items on a grocery list, but forgetting the middle items.
 
-74. **Not-Invented-Here Syndrome**
+73. **Not-Invented-Here Syndrome**
    - Disregarding ideas from external sources.
    - Example: A company ignoring a competitor's successful strategy just because it wasn't their idea.
 
-75. **The Black Swan**
+74. **The Black Swan**
    - Ignoring the highly improbable.
    - Example: Dismissing the chance of a once-in-a-lifetime financial crisis.
 
-76. **Domain Dependence**
+75. **Domain Dependence**
    - Applying knowledge only in familiar contexts.
    - Example: A doctor not applying health advice to their own life.
 
-77. **False-Consensus Effect**
+76. **False-Consensus Effect**
    - Overestimating how much others agree with us.
    - Example: Assuming everyone shares your political views.
 
-78. **Falsification of History**
+77. **Falsification of History**
    - Revising history to fit our current understanding.
    - Example: Believing past actions were always intended to lead to current success.
 
-79. **In-Group Out-Group Bias**
+78. **In-Group Out-Group Bias**
    - Favoring those in our group over outsiders.
    - Example: Preferring the opinions of colleagues over those of external experts.
 
-80. **Ambiguity Aversion**
+79. **Ambiguity Aversion**
    - Avoiding uncertain options.
    - Example: Choosing a known risk over an unknown one.
 
-81. **Default Effect**
+80. **Default Effect**
    - Going with the default option.
    - Example: Sticking with pre-set choices in software settings.
 
-82. **Fear of Regret**
+81. **Fear of Regret**
    - Making choices to avoid regret.
    - Example: Not taking a job offer due to fear of failing.
 
-83. **Salience Effect**
+82. **Salience Effect**
    - Focusing on the most noticeable features.
    - Example: Judging someone based on their most prominent characteristic.
 
-84. **House-Money Effect**
+83. **House-Money Effect**
    - Taking greater risks with found money.
    - Example: Gambling more aggressively with winnings.
 
-85. **Procrastination**
+84. **Procrastination**
    - Delaying important tasks.
    - Example: Putting off studying for an exam until the night before.
 
-86. **Envy**
+85. **Envy**
    - Resenting others' success or possessions.
    - Example: Feeling unhappy about a friend's new car.
 
-87. **Personification**
+86. **Personification**
    - Attributing human traits to non-human entities.
    - Example: Thinking a pet understands complex emotions.
 
-88. **Illusion of Attention**
+87. **Illusion of Attention**
    - Believing we notice everything important.
    - Example: Not seeing a friend in the crowd despite looking for them.
 
-89. **Strategic Misrepresentation**
+88. **Strategic Misrepresentation**
    - Deliberately underestimating costs or time in plans.
    - Example: Underreporting project time to secure approval.
 
-90. **Overthinking**
+89. **Overthinking**
    - Thinking too much about decisions.
    - Example: Spending hours deciding on a minor purchase.
 
-91. **Planning Fallacy**
+90. **Planning Fallacy**
    - Underestimating the time needed for tasks.
    - Example: Thinking a report will take two days to write when it actually takes a week.
 
-92. **Déformation Professionnelle**
+91. **Déformation Professionnelle**
    - Viewing everything through the lens of one's profession.
    - Example: A hammer manufacturer seeing every problem as a nail.
 
-93. **Zeigarnik Effect**
+92. **Zeigarnik Effect**
    - Remembering uncompleted tasks better.
    - Example: Recalling the details of an interrupted project more clearly.
 
-94. **Illusion of Skill**
+93. **Illusion of Skill**
    - Overestimating one's ability to influence outcomes.
    - Example: A trader believing they can consistently beat the market.
 
-95. **Feature-Positive Effect**
+94. **Feature-Positive Effect**
    - Noticing what's present, ignoring what's absent.
    - Example: Focusing on the features a new car has, not what it lacks.
 
-96. **Cherry Picking**
+95. **Cherry Picking**
    - Selecting data that supports your view.
    - Example: Citing only studies that back your argument.
 
-97. **Fallacy of the Single Cause**
+96. **Fallacy of the Single Cause**
    - Attributing an event to a single cause.
    - Example: Blaming a team's loss solely on the coach.
 
-98. **Intention-to-Treat Error**
+97. **Intention-to-Treat Error**
    - Judging a plan based on its intention, not results.
    - Example: Sticking with a failed diet because it's supposed to work.
 
-99. **News Illusion**
+98. **News Illusion**
    - Overvaluing the usefulness of news.
    - Example: Believing that watching news constantly is necessary to stay informed.
