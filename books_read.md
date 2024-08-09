@@ -3,6 +3,7 @@
 ## 2024
 | Title                                                         | Author                              | Month |
 | ------------------------------------------------------------- | ----------------------------------- | ----- |
+| Disciplined Entrepreneurship                                  | Bill Aulet                          | Jul   |
 | Million Dollar Weekend                                        | Noah Kagan & Tahl Raz               | Jul   |
 | The Daily Laws                                                | Robert Greene                       | Jul   |
 | Poor Charlie's Almanac                                        | Peter D Kaufman & Charles T. Munger | May   |
