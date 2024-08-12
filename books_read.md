@@ -3,6 +3,8 @@
 ## 2024
 | Title                                                         | Author                              | Month |
 | ------------------------------------------------------------- | ----------------------------------- | ----- |
+| The Eternal Pursuit of Unhappiness                            | Ogilvy & Mather                     | Aug   |
+| The Art of War                                                | Sun Tzu                             | Aug   |
 | Disciplined Entrepreneurship                                  | Bill Aulet                          | Jul   |
 | Million Dollar Weekend                                        | Noah Kagan & Tahl Raz               | Jul   |
 | The Daily Laws                                                | Robert Greene                       | Jul   |
