@@ -1,8 +1,11 @@
 # Books Read
 
 ## 2024
+
 | Title                                                         | Author                              | Month |
 | ------------------------------------------------------------- | ----------------------------------- | ----- |
+| The Hard Thing About Hard Things                              | Ben Horowitz                        | Aug   |
+| Talking to Humans                                             | Giff Constable                      | Aug   |
 | The Eternal Pursuit of Unhappiness                            | Ogilvy & Mather                     | Aug   |
 | The Art of War                                                | Sun Tzu                             | Aug   |
 | Disciplined Entrepreneurship                                  | Bill Aulet                          | Jul   |
@@ -22,6 +25,7 @@
 | 7 Powers: The Foundations of Business                         | Hamlton Helmer                      | Jan   |
 
 ## 2023
+
 | Title                                     | Author                          | Month    |
 | ----------------------------------------- | ------------------------------- | -------- |
 | Team Topologies                           | Matthew Skelton & Manuel Pais   | Dec      |
@@ -29,3 +33,5 @@
 | Five rules for Successful Stock Investing | Pat Dorsey                      | Sept     |
 | The New One Minute Manager                | Ken Blanchard & Spencer Johnson | Sept/Nov |
 | Little Book of Valuation (partial)        | Aswath Damodaran                | 2023     |
+
+
