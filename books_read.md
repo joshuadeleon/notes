@@ -33,5 +33,3 @@
 | Five rules for Successful Stock Investing | Pat Dorsey                      | Sept     |
 | The New One Minute Manager                | Ken Blanchard & Spencer Johnson | Sept/Nov |
 | Little Book of Valuation (partial)        | Aswath Damodaran                | 2023     |
-
-
