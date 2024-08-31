@@ -4,6 +4,7 @@
 
 | Title                                                         | Author                              | Month |
 | ------------------------------------------------------------- | ----------------------------------- | ----- |
+| In the Company of Giants                                      | Jager/Ortiz                         | Aug   |
 | The Hard Thing About Hard Things                              | Ben Horowitz                        | Aug   |
 | Talking to Humans                                             | Giff Constable                      | Aug   |
 | The Eternal Pursuit of Unhappiness                            | Ogilvy & Mather                     | Aug   |
@@ -32,4 +33,4 @@
 | The Art of Thinking Clearly               | Rolf Dobelli                    | Dec      |
 | Five rules for Successful Stock Investing | Pat Dorsey                      | Sept     |
 | The New One Minute Manager                | Ken Blanchard & Spencer Johnson | Sept/Nov |
-| Little Book of Valuation (partial)        | Aswath Damodaran                | 2023     |
+| Little Book of Valuation (partially)      | Aswath Damodaran                | 2023     |
