@@ -4,6 +4,7 @@
 
 | Title                                                         | Author                              | Month |
 | ------------------------------------------------------------- | ----------------------------------- | ----- |
+| The Almanack of Navel Ravikant                                | Eric Jorgenson                      | Aug   |
 | In the Company of Giants                                      | Jager/Ortiz                         | Aug   |
 | The Hard Thing About Hard Things                              | Ben Horowitz                        | Aug   |
 | Talking to Humans                                             | Giff Constable                      | Aug   |
